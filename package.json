@@ -1,0 +1,30 @@
+{
+  "name": "gulp-component-generator",
+  "version": "1.0.0",
+  "description": "A gulp task to automatically generate web components for your site/app",
+  "main": "component.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/indiefolk/gulp-component-generator"
+  },
+  "keywords": [
+    "gulp",
+    "webcomponent",
+    "component",
+    "generator"
+  ],
+  "author": "John Lund",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "3.9.1",
+    "gulp-conflict": "0.4.0",
+    "gulp-install": "0.6.0",
+    "gulp-rename": "1.2.2",
+    "gulp-template": "4.0.0",
+    "inquirer": "1.0.2",
+    "path": "0.12.7"
+  }
+}
